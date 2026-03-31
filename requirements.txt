@@ -1,0 +1,7 @@
+torch==2.8.0
+transformers==4.57.1
+pytest==9.0.1
+numpy==1.26.1
+matplotlib==3.8.2
+tensorboard==2.20.0
+wandb==0.19.10
