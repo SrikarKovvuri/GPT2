@@ -4,12 +4,7 @@ Test file to verify GPT-2 implementation against HuggingFace's implementation.
 This file imports transformers (HF) to compare outputs between the custom
 implementation and the reference implementation.
 
-Usage:
-    # Make sure you are at the root of the hw2 directory.
-    # Run all tests:
-    pytest hw2_test.py -v
-    # Run a specific test:
-    pytest hw2_test.py::test_loads_and_forward_pass -v
+
 """
 
 import json
